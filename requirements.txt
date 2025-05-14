@@ -15,7 +15,7 @@ sqlparse==0.5.3
 whitenoise==6.9.0
 
 #  pip install -r requirements.txt
-
+ 
 #  pip list --outdated
 
 #  pip install --upgrade <package-name>
